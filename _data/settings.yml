@@ -11,6 +11,7 @@ menu:
 # Projects Section
 
 projects:
+- {name: 'About Me',   url: 'about-me'}
 - {name: 'Project One',   url: 'proj-1'}
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
